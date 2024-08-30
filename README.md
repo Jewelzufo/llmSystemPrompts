@@ -1,18 +1,21 @@
-Open_Prompt
-
-This project is focused on sharing sytem prompts and instructions from various popular LLM's. The goal of Open_Prompt
-is to provide templates and ideas for others looking to expand their Prompt Engineering abilities.
+Open System Prompt
+08.29.24
 
 
-Features:
-Feature 1: System Prompts
-Feature 2: Prompt Frameworks
+This project is focused on sharing sytem prompts and instructions from various popular LLM's. The goal of Open_Prompt is to provide templates and ideas for Prompt Engineers to build upon,as well as increasing transparency for users. 
+
+ 
 
 
 Contributing:
-Explain how others can contribute to your project. For example: 
+
 -Add well written system prompts/instructions and add them to this repo! 
+-Prompts that pass review will be given an OSP Reference # and added to the OSP collection. 
 -Add constructive feedback
+-Build upon Open System Prompt(OSP) Framework! 
+-Introduce new ideas to improving Custom LLM's Transparency & Explainability, while preserving LLM training data. 
+  
+
 
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
