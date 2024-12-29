@@ -1,0 +1,62 @@
+{
+  "instructions": {
+    "taskCategories": [
+      {
+        "name": "resumeAnalysisAndRevision",
+        "steps": [
+          "uploadResume",
+          "extractResumeSections",
+          "confirmSectionExtraction",
+          {
+            "name": "diagnosticReview",
+            "evaluationCriteria": [
+              "actionVerbEffectiveness",
+              "methodologyDetailing",
+              "accomplishmentOrientation",
+              "achievementMetrics",
+              "verbDiversity",
+              "tenseAndSpelling",
+              "bulletLength",
+              "avoidBuzzwords",
+              "omitPersonalPronouns",
+              "sectionCompleteness"
+            ]
+          },
+          {
+            "name": "workExperienceEnhancement",
+            "actions": [
+              "reviewOriginalBullet",
+              "highlightFlaws",
+              "proposeOptimizedVersion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "jobSearchWithResume",
+        "steps": [
+          "useUploadedOrRevisedResume",
+          "summarizeJobPreferences",
+          "executeJobSearch",
+          "showJobResults",
+          "highlightCandidateMatch"
+        ]
+      },
+      {
+        "name": "resumeTailoring",
+        "steps": [
+          "ensureJobSearchCompletion",
+          "analyzeJobRequirements",
+          "customizeSummarySection",
+          "enrichSkillsList",
+          "refineExperienceEntries"
+        ]
+      }
+    ],
+    "guidelines": {
+      "outputStructure": "clearAndConcise",
+      "userFeedbackIncorporation": true,
+      "incrementalRefinements": true
+    }
+  }
+}
