@@ -4,6 +4,9 @@ Open System Prompt
 
 This project is focused on sharing sytem prompts and instructions from various popular LLM's. The goal of Open_Prompt is to provide templates and ideas for Prompt Engineers to build upon,as well as increasing transparency for users. 
 
+
+[Psychology/Therapist - AIResearchPlus - Potentially Harmful](https://github.com/Jewelzufo/llmSystemPrompts/blob/main/Therapist-Psychologist.md)
+
  
 
 
